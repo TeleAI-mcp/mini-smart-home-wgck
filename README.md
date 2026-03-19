@@ -1,2 +1,3 @@
-# mini-smart-home-wgck
-Automated issue comment bot repository
+# Mini Smart Home Wgck
+
+Automated issue comment bot repository.
